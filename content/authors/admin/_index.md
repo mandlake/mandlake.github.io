@@ -60,7 +60,7 @@ education:
     button:
       text: "게임 프로젝트 - Paper Company"
       url: "https://github.com/mandlake/PaperCompany"
-  - area: 
+  - area: 비트캠프 교육센터
     institution: (네이버 클라우드) 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정
     date_start: 2024-02-14
     date_end: 2024-08-20
@@ -88,16 +88,46 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Frontend Skills
     items:
+      - name: html/css/javascript
+        description: ""
+        percent: 80
+        icon: code-bracket
+      - name: react
+        description: ""
+        percent: 80
+        icon: code-bracket
+      - name: typescript
+        description: ""
+        percent: 80
+        icon: code-bracket
+      - name: tailwindcss
+        description: ""
+        percent: 80
+        icon: code-bracket
+      - name: Prisma
+        description: ""
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ""
+        percent: 40
+        icon: circle-stack
+  - name: Backend Skills
+    items:
+      - name: C++
+        description: ""
+        percent: 80
+        icon: code-bracket
+      - name: Java
+        description: ""
+        percent: 80
+        icon: code-bracket
       - name: Python
         description: ""
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ""
-        percent: 100
-        icon: chart-bar
       - name: SQL
         description: ""
         percent: 40
@@ -106,10 +136,10 @@ skills:
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
+      - name: Game
         description: ""
         percent: 60
-        icon: person-simple-walk
+        icon: game
       - name: Cats
         description: ""
         percent: 100
@@ -120,12 +150,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Korea
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

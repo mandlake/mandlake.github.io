@@ -94,15 +94,7 @@ skills:
         description: ""
         percent: 80
         icon: code-bracket
-      - name: react
-        description: ""
-        percent: 80
-        icon: code-bracket
-      - name: typescript
-        description: ""
-        percent: 80
-        icon: code-bracket
-      - name: tailwindcss
+      - name: react/typescript
         description: ""
         percent: 80
         icon: code-bracket
@@ -110,10 +102,6 @@ skills:
         description: ""
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ""
-        percent: 40
-        icon: circle-stack
   - name: Backend Skills
     items:
       - name: C++

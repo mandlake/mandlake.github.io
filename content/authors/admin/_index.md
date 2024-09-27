@@ -47,65 +47,43 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 프론트엔드 개발
+  - 게임 개발
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 컴퓨터공학부(컴퓨터공학과)
+    institution: 전북대학교
+    date_start: 2020-01-01
+    date_end: 2024-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      컴퓨터 게임개발 동아리 GPU에서 게임 개발 공부를 진행, 학교 프로젝트의 일환으로 Paper Company를 제작
     button:
-      text: "Read Thesis"
-      url: "https://example.com"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: "게임 프로젝트 - Paper Company"
+      url: "https://github.com/mandlake/PaperCompany"
+  - area: 
+    institution: (네이버 클라우드) 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정
+    date_start: 2024-02-14
+    date_end: 2024-08-20
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      비트교육센터에서 진행하는 클라우드 기반 웹 프로젝트를 진행, 해당 프로젝트의 일환으로 lawmate라는 ai를 이용한 변호사 중개 사이트 제작. 
+    button:
+      text: "lawmate 변호사 중개 사이트 - github"
+      url: "https://github.com/lawmate-site"
+    button:
+      text: "lawmate 변호사 중개 사이트 - mainpage"
+      url: "https://bitcamp-team-frontend.vercel.app/"
+    button:
+      text: "lawmate 변호사 중개 사이트 - adminpage"
+      url: "https://bitcamp-team-frontend-admin.vercel.app/"
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ""
+  - position: 프론트엔드 개발자 인턴
+    company_name: 애드캡슐
+    company_url: "https://www.adcapsule.kr/"
     company_logo: ""
-    date_start: 2021-01-01
-    date_end: ""
+    date_start: 2023-06-27
+    date_end: 2023-08-25
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ""
-    company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      애드캡슐 회사에서 프론트엔드 개발자 인턴 과정 진행
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

@@ -56,19 +56,7 @@ education:
     date_start: 2020-01-01
     date_end: 2024-12-31
     summary: |
-      컴퓨터 게임개발 동아리 GPU에서 게임 개발 공부를 진행, 학교 프로젝트의 일환으로 Paper Company를 제작
-    button:
-      text: "게임 프로젝트 - Paper Company"
-      url: "https://github.com/mandlake/PaperCompany"
-  - area:
-    institution: 전북대학교
-    date_start: 2024-09-27
-    date_end: 2024-12-31
-    summary: |
-      과거 주니어네이버 동물농장 게임을 재구현.
-    button:
-      text: "게임 프로젝트 - 동물농장"
-      url: "https://github.com/mandlake/animal-farm-project"
+      2020년 컴퓨터공학부 입학, 2024년 졸업 예정
   - area: 비트캠프 교육센터
     institution: (네이버 클라우드) 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정
     date_start: 2024-02-14

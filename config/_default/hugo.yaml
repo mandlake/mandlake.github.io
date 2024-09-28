@@ -13,9 +13,9 @@ baseURL: "https://mandlake.github.io/"
 ############################
 
 defaultContentLanguage: kr
-hasCJKLanguage: true
-defaultContentLanguageInSubdir: true
-# removePathAccents: true
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
 
 ############################
 ## ADVANCED

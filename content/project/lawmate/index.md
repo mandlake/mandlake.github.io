@@ -1,7 +1,6 @@
 ---
 title: Lawmate
-date_start: 2024-06-20
-date_end: 2024-08-20
+date: 2024-06-20
 external_link: https://github.com/mandlake/bitcamp-team-frontend
 tags:
   - 변호사 중개 사이트

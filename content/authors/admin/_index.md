@@ -65,7 +65,7 @@ education:
       비트교육센터에서 진행하는 클라우드 기반 웹 프로젝트를 진행, 해당 프로젝트의 일환으로 lawmate라는 ai를 이용한 변호사 중개 사이트 제작.
     button:
       text: "lawmate 변호사 중개 사이트 - github"
-      url: "https://github.com/lawmate-site"
+      url: https://github.com/mandlake/bitcamp-team-frontend
 work:
   - position: 프론트엔드 개발자 인턴
     company_name: 애드캡슐
@@ -73,7 +73,7 @@ work:
     company_logo: ""
     date_start: 2023-06-27
     date_end: 2023-08-25
-    summary: |2-
+    summary: |
       애드캡슐 회사에서 프론트엔드 개발자 인턴 과정 진행
 
 # Skills

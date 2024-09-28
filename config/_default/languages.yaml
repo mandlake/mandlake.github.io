@@ -5,7 +5,7 @@
 # Default language
 kr:
   languageCode: ko-kr
-  contentDir: content/ko
+  contentDir: content/kr
 en:
   languageCode: en-us
   contentDir: content/en

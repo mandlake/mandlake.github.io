@@ -1,13 +1,12 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: 캐시 성능 개선
+date: 2023-09-18
+external_link: https://docs.google.com/presentation/d/1z4jQqolv--T0F1DEyPzVVGD6t0JJdK1F/edit?usp=sharing&ouid=105738723853254609453&rtpof=true&sd=true
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Cashe
+  - C++
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+본인 포함 4인의 개발자와 함께 캐시 성능 개선을 위한 프로젝트를 진행.
 
 <!--more-->

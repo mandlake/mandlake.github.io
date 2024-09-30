@@ -5,7 +5,7 @@
 # Default language
 kr:
   name: 한국어
-  languageCode: ko-kr
+  languageCode: ko
   contentDir: content/kr
   weight: 1
 en:

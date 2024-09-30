@@ -6,7 +6,7 @@
 kr:
   name: 한국어
   languageCode: ko-kr
-  contentDir: content
+  contentDir: content/kr
   weight: 1
 en:
   name: English

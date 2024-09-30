@@ -55,6 +55,13 @@ education:
     institution: 전북대학교
     date_start: 2020-01-01
     date_end: 2024-12-31
+    params:
+      hugo-maps:
+        default:
+          tileJSON: https://api.maptiler.com/maps/aquarelle/?key=v5K1SmwDQ21QRKA2KOug#1.0/0.00000/0.00000
+        my_map:
+          center: [35.85, 127.13]
+          zoom: 2
     summary: |
       2020년 컴퓨터공학부 입학, 2024년 졸업 예정
   - area: 비트캠프 교육센터

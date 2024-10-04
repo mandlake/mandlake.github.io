@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
+  - name: 메인
     url: /
     weight: 10
   # - name: Papers
@@ -16,10 +16,10 @@ main:
   # - name: News
   #   url: /#news
   #   weight: 13
-  - name: Experience
+  - name: 경험
     url: experience/
     weight: 20
-  - name: Projects
+  - name: 프로젝트
     url: projects/
     weight: 30
   # - name: Teaching

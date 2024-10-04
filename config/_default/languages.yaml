@@ -3,10 +3,10 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-kr:
+ko:
   name: 한국어
   languageCode: ko
-  contentDir: content/kr
+  contentDir: content/ko
   weight: 1
 en:
   name: English

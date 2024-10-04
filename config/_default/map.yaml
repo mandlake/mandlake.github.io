@@ -6,7 +6,7 @@ module:
 params:
   hugo-maps:
       default:
-        tileJSON: https://api.maptiler.com/maps/basic-v2/tiles.json?key=v5K1SmwDQ21QRKA2KOug
+        tileJSON: hhttps://api.maptiler.com/tiles/v3/tiles.json?key=v5K1SmwDQ21QRKA2KOug
       my_map:
         center: [35.85194537795955, 127.1286255985083]
         zoom: 2

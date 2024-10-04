@@ -1,3 +1,12 @@
 module:
   imports:
     - path: github.com/marcpabst/hugo-maps
+
+
+params:
+  hugo-maps:
+      default:
+        tileJSON: https://api.maptiler.com/maps/basic-v2/?key=v5K1SmwDQ21QRKA2KOug#6.8/36.90348/127.61245
+      my_map:
+        center: [35.85194537795955, 127.1286255985083]
+        zoom: 2

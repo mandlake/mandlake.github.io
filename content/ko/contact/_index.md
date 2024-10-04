@@ -17,7 +17,7 @@ sections:
         region: 전라북도
         postcode: '54896'
         country: 대한민국
-        country_code: KO
+        country_code: ko
       coordinates:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'

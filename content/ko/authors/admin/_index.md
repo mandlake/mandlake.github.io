@@ -55,17 +55,17 @@ education:
     institution: 전북대학교
     date_start: 2020-01-01
     date_end: 2024-12-31
-
-    address:
-      street: 전북대학교 공과대학 7호관 626호
-      city: 전주시
-      region: 전라북도
-      postcode: '54896'
-      country: 대한민국
-      country_code: KO
-    coordinates:
-      latitude: '35.84601324617979'
-      longitude: '127.13444961966684'
+    content:
+      address:
+        street: 전북대학교 공과대학 7호관 626호
+        city: 전주시
+        region: 전라북도
+        postcode: '54896'
+        country: 대한민국
+        country_code: KO
+      coordinates:
+        latitude: '35.84601324617979'
+        longitude: '127.13444961966684'
     summary: |
       2020년 컴퓨터공학부 입학, 2024년 졸업 예정
   - area: 비트캠프 교육센터

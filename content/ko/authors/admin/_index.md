@@ -57,7 +57,6 @@ education:
     date_end: 2024-12-31
     summary: |
       2020년 컴퓨터공학부 입학, 2024년 졸업 예정
-      {{< map name="my_map" >}}
   - area: 비트캠프 교육센터
     institution: (네이버 클라우드) 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정
     date_start: 2024-02-14

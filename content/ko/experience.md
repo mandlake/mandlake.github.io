@@ -28,10 +28,6 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-qualifications
-    content:
-      title: Qualifications
-      username: admin
   - block: resume-languages
     content:
       title: Languages

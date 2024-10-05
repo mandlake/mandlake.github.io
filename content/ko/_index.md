@@ -44,7 +44,7 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
-  - block: collection
+  - block: slider
     content:
       slides:
         - title: 👋 Welcome to the group

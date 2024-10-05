@@ -115,22 +115,23 @@ skills:
         description: ""
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: "#eeac02"
-    color_border: "#f0bf23"
-    items:
-      - name: Game
-        description: ""
-        percent: 60
-        icon: game
-      - name: Cats
-        description: ""
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ""
-        percent: 80
-        icon: camera
+
+hobbies:
+  color: "#eeac02"
+  color_border: "#f0bf23"
+  items:
+    - name: Game
+      description: ""
+      percent: 60
+      icon: game
+    - name: Cats
+      description: ""
+      percent: 100
+      icon: cat
+    - name: Photography
+      description: ""
+      percent: 80
+      icon: camera
 
 languages:
   - name: 한국어

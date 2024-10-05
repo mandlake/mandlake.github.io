@@ -32,7 +32,6 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "📚 현재 진행중인 프로젝트들"
       subtitle: ""
       text: |-
         add projects here
@@ -44,54 +43,53 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
-  - widget: slider
+  - block: slider
     content:
+      title: "📚 현재 완료된 프로젝트들"
       slides:
-        - title: 👋 Welcome to the group
-          content: Take a look at what we're working on...
+        - title: 캐시 성능 개선
+          content: 캐시 성능 개선을 위한 프로젝트
           align: center
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: 캐시.png
+              filename: uploads/캐시.png
               filters:
                 brightness: 0.7
             position: right
-            color: "#666"
-        - title: Lunch & Learn ☕️
-          content: "Share your knowledge with the group and explore exciting new topics together!"
+        - title: lawmate
+          content: ai를 이용한 변호사 중개 사이트
           align: left
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: 캐시.png
+              filename: uploads/lawmate.png
               filters:
                 brightness: 0.7
             position: center
-            color: "#555"
-        - title: World-Class Semiconductor Lab
-          content: "Just opened last month!"
+        - title: paper company
+          content: 유니티를 이용한 3d vr 게임
           align: right
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: 캐시.png
+              filename: uploads/paperCompany.png
               filters:
                 brightness: 0.5
             position: center
-            color: "#333"
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ""
       # Make the slides full screen within the browser window?
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
+
   - block: collection
     id: papers
     content:

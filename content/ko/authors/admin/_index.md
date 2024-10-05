@@ -116,6 +116,10 @@ skills:
         description: ""
         percent: 40
         icon: circle-stack
+design:
+  view: article-grid
+  fill_image: true
+  columns: 3
 
 hobbies:
   color: "#eeac02"

@@ -20,20 +20,20 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: 스킬
+      title: Skills
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-awards
     content:
-      title: 상
+      title: Awards
       username: admin
   - block: resume-languages
     content:
-      title: 언어
+      title: Languages
       username: admin
-  # - block: resume-qualifications
-  #   content:
-  #     title: 자격증
-  #     username: admin
+  - block: resume-qualifications
+    content:
+      title: qualifications
+      username: admin
 ---

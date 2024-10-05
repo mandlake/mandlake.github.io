@@ -124,6 +124,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-[#0594cb]-700"
+        image: uploads/바다.png
         css_style: ""
 ---

@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: sliders
+  - block: slider
     content:
       slides:
         - title: 캐시
@@ -38,7 +38,7 @@ sections:
           align: center
           background:
             image:
-              filename: /uploads/캐시.png
+              filename: uploads/캐시.png
               filters:
                 brightness: 0.4
             position: center
@@ -48,7 +48,7 @@ sections:
           align: center
           background:
             image:
-              filename: /uploads/lawate.png
+              filename: uploads/lawate.png
               filters:
                 brightness: 0.4
             position: center
@@ -58,7 +58,7 @@ sections:
           align: center
           background:
             image:
-              filename: /uploads/paperCompany.jpg
+              filename: uploads/paperCompany.jpg
               filters:
                 brightness: 0.4
             position: center

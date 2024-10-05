@@ -30,18 +30,47 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: slider
     content:
-      title: "📚 My Research"
-      subtitle: ""
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+      slides:
+        - title: 캐시
+          content: 캐시 성능 개선을 위한 프로젝트
+          align: center
+          background:
+            image:
+              filename: /uploads/캐시.png
+              filters:
+                brightness: 0.4
+            position: center
+            color: "#000"
+        - title: lawmate
+          content: ai를 활용한 변호사 중개 사이트
+          align: center
+          background:
+            image:
+              filename: /uploads/lawate.png
+              filters:
+                brightness: 0.4
+            position: center
+            color: "#000"
+        - title: paper company
+          content: unity를 활용한 3d vr 게임 제작
+          align: center
+          background:
+            image:
+              filename: /uploads/paperCompany.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: "#000"
     design:
-      columns: "1"
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: "350px"
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 2000
   - block: collection
     id: papers
     content:

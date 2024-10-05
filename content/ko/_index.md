@@ -44,7 +44,7 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
-  - block: slider
+  - block: collection
     content:
       slides:
         - title: 👋 Welcome to the group
@@ -83,11 +83,6 @@ sections:
                 brightness: 0.5
             position: center
             color: "#333"
-          link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: Join Us
-            url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ""

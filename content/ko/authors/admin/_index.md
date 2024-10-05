@@ -57,7 +57,7 @@ education:
     date_end: 2024-12-31
     summary: |
       김시온은 2020년 컴퓨터공학부 입학, 2024년 졸업 예정
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.377084474057!2d127.12864772446262!3d35.85193634171949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b933eb5098d%3A0xb799ee788fa28eb7!2seSolia+Inc.!5e0!3m2!1sen!2sjp!4v1434536695719" width="600" height="450" frameborder="0" style="border:0"></iframe>
+      <div class="mapouter"><div class="gmap_canvas"><iframe src="https://maps.google.com/maps?q=%EC%A0%84%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90%20%EC%83%88%EB%B9%9B%EA%B4%80&amp;t=&amp;z=18&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0" scrolling="no" style="width: 600px; height: 500px;"></iframe><style>.mapouter{display:table;}.gmap_canvas{overflow:hidden;position:relative;height:500px;width:600px;background:#fff;}</style><a href="https://fnfmods.net/vs-tricky/">fnf tricky</a><style>.gmap_canvas iframe{position:relative !important;z-index:2 !important;}.gmap_canvas a{color:#fff !important;position:absolute !important;top:0 !important;left:0 !important;z-index:0 !important;}</style></div></div>
   - area: 비트캠프 교육센터
     institution: (네이버 클라우드) 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정
     date_start: 2024-02-14

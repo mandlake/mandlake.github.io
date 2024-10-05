@@ -30,13 +30,43 @@ sections:
           size: cover
           position: center
           parallax: false
-  - widget: slider
+  - block: collection
     id: papaer
     content:
       title: "📚 현재 진행중인 프로젝트"
       filters:
-        folders:
-          - project
+        - title: 캐시 성능 개선
+          content: 캐시 성능 개선을 위한 프로젝트
+          align: center
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: uploads/캐시.png
+              filters:
+                brightness: 0.7
+        - title: lawmate
+          content: ai를 이용한 변호사 중개 사이트
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: uploads/lawmate.png
+              filters:
+                brightness: 0.7
+            position: center
+        - title: paper company
+          content: 유니티를 이용한 3d vr 게임
+          align: right
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: uploads/paperCompany.png
+              filters:
+                brightness: 0.7
+            position: center
       design:
         view: article-grid
         columns: 1

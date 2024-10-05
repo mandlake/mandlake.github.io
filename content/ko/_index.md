@@ -113,4 +113,17 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
+  - block: cta-card
+    content:
+      title: 현재 웹사이트의 깃허브 주소
+      text: |-
+        해당 웹사이트의 깃허브 주소로 이동!!
+
+        <a class="github-button" href="https://github.com/mandlake/mandlake.github.io" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
+
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-emerald-700"
+        css_style: ""
 ---

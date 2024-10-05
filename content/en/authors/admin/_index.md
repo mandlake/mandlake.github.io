@@ -70,7 +70,7 @@ work:
   - position: 프론트엔드 개발자 인턴
     company_name: 애드캡슐
     company_url: "https://www.adcapsule.kr/"
-    company_logo: ""
+    company_logo: "icons.png"
     date_start: 2023-06-27
     date_end: 2023-08-25
     summary: |

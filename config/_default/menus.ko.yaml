@@ -22,8 +22,6 @@ main:
   - name: 프로젝트
     url: projects/
     weight: 30
-  - name: 맵
-    url: map/
   # - name: Teaching
   #   url: teaching/
   #   weight: 40

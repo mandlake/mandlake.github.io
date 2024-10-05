@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "📚 내 프로젝트들"
+      title: "📚 현재 진행중인 프로젝트들"
       subtitle: ""
       text: |-
         add projects here
@@ -44,10 +44,25 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
+  - block: slider
+    content:
+      slides:
+        - title: 👋 Welcome to the group
+          content: Take a look at what we're working on...
+          align: center
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: coders.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: "#666"
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 완료된 프로젝트들
       filters:
         folders:
           - publication

@@ -32,8 +32,8 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: resume-qualifications
-    content:
-      title: qualifications
-      username: admin
+  # - block: resume-qualifications
+  #   content:
+  #     title: qualifications
+  #     username: admin
 ---

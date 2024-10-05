@@ -144,7 +144,6 @@ languages:
   - name: 영어
     percent: 75
 
-# Qualifications
 qualifications:
   - name: 토익
     description: 750

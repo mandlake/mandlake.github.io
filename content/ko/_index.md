@@ -119,7 +119,7 @@ sections:
       text: |-
         해당 웹사이트의 깃허브 주소로 이동!!
 
-        <a class="github-button" href="https://github.com/mandlake/mandlake.github.io" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
+        <a class="github-button" href="https://github.com/mandlake/mandlake.github.io" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star mandlake/mandlake.github.io on GitHub">Star</a>
 
     design:
       card:

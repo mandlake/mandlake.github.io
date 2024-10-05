@@ -124,6 +124,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_css_class: "bg-blue-300"
+        css_class: "bg-emerald-700"
         css_style: ""
 ---

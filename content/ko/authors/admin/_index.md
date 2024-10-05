@@ -180,6 +180,6 @@ awards:
   #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## 자기소개
+## About Me
 
 저는 게임 개발과 프론트 개발에 관심이 있는 개발자 김시온이라고 합니다. 현재 컴퓨터공학부 4학년에 재학중이며 2024년 12월 31일에 졸업이 예정되어 있습니다.

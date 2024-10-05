@@ -32,10 +32,13 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
+    show_logo: true
+    show_language: true
+    show_day_night: true
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "icons.png"
+      text: "mandlake"
 
 # Site footer
 footer:

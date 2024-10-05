@@ -23,7 +23,7 @@ main:
     url: projects/
     weight: 30
   - name: map
-    url: contact/
+    url: map/
   # - name: Teaching
   #   url: teaching/
   #   weight: 40

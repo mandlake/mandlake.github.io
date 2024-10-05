@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: carousel
+  - block: slider
     content:
       slides:
         - title: 캐시

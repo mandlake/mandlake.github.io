@@ -116,28 +116,37 @@ skills:
         description: ""
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: "#eeac02"
-    color_border: "#f0bf23"
-    items:
-      - name: Game
-        description: ""
-        percent: 60
-        icon: game
-      - name: Cats
-        description: ""
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ""
-        percent: 80
-        icon: camera
+
+Hobbies:
+  color: "#eeac02"
+  color_border: "#f0bf23"
+  items:
+    - name: Game
+      description: ""
+      percent: 60
+      icon: game
+    - name: Cats
+      description: ""
+      percent: 100
+      icon: cat
+    - name: Photography
+      description: ""
+      percent: 80
+      icon: camera
 
 languages:
   - name: 한국어
     percent: 100
   - name: 영어
     percent: 75
+
+qualifications:
+  - name: 토익
+    description: 750
+    percent: 80
+  - name: 정보 처리기사
+    description: 필기 합격, 실기 예정
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -173,4 +182,4 @@ awards:
 
 ## About Me
 
-저는 게임 개발과 프론트 개발에 관심이 있는 개발자입니다.
+저는 게임 개발과 프론트 개발에 관심이 있는 개발자 김시온이라고 합니다. 현재 컴퓨터공학부 4학년에 재학중이며 2024년 12월 31일에 졸업이 예정되어 있습니다.

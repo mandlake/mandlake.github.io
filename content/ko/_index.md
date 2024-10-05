@@ -43,7 +43,7 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
-  - block: slider
+  - widget: slider
     content:
       title: "📚 현재 완료된 프로젝트들"
       slides:

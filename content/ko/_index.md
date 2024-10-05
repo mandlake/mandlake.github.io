@@ -122,8 +122,5 @@ sections:
         <a class="github-button" href="https://github.com/mandlake/mandlake.github.io" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star mandlake/mandlake.github.io on GitHub">Star</a>
 
     design:
-      card:
-        # Card background color (CSS class)
-        image: uploads/바다.png
-        css_style: ""
+      fill_image: true
 ---

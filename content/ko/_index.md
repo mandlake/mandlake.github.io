@@ -30,39 +30,12 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: slider
+  - block: markdown
     content:
-      slides:
-        - title: 캐시
-          content: 캐시 성능 개선을 위한 프로젝트
-          align: center
-          background:
-            image:
-              filename: uploads/캐시.png
-              filters:
-                brightness: 0.4
-            position: center
-            color: "#000"
-        - title: lawmate
-          content: ai를 활용한 변호사 중개 사이트
-          align: center
-          background:
-            image:
-              filename: uploads/lawate.png
-              filters:
-                brightness: 0.4
-            position: center
-            color: "#000"
-        - title: paper company
-          content: unity를 활용한 3d vr 게임 제작
-          align: center
-          background:
-            image:
-              filename: uploads/paperCompany.jpg
-              filters:
-                brightness: 0.4
-            position: center
-            color: "#000"
+      title: "📚 내 프로젝트들"
+      subtitle: ""
+      text: |-
+        add projects here
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: "350px"

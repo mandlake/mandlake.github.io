@@ -10,7 +10,6 @@ design:
 
 sections:
   - block: resume-biography-3
-    id: papers
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -32,51 +31,15 @@ sections:
           position: center
           parallax: false
   - widget: slider
+    id: papaer
     content:
       title: "📚 현재 진행중인 프로젝트"
       filters:
-        - title: 캐시 성능 개선
-          content: 캐시 성능 개선을 위한 프로젝트
-          align: center
-          background:
-            image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: uploads/캐시.png
-              filters:
-                brightness: 0.7
-            position: right
-        - title: lawmate
-          content: ai를 이용한 변호사 중개 사이트
-          align: left
-          background:
-            image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: uploads/lawmate.png
-              filters:
-                brightness: 0.7
-            position: center
-        - title: paper company
-          content: 유니티를 이용한 3d vr 게임
-          align: right
-          background:
-            image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: uploads/paperCompany.png
-              filters:
-                brightness: 0.7
-            position: center
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ""
-      # Make the slides full screen within the browser window?
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 2000
+        folders:
+          - project
+      design:
+        view: article-grid
+        columns: 1
 
   # - block: collection
   #   id: papers

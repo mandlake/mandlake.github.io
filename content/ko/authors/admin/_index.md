@@ -143,6 +143,8 @@ languages:
     percent: 100
   - name: 영어
     percent: 75
+  - name: 일본어
+    percent: 40
 
 qualifications:
   - name: 토익

@@ -3,7 +3,7 @@
 title: 김시온
 
 # Name pronunciation (optional)
-name_pronunciation: Kim Shi On
+name_pronunciation: Kim Si On
 
 # Full name (for SEO)
 first_name: 시온

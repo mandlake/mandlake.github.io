@@ -25,5 +25,7 @@ main:
   # - name: Teaching
   #   url: teaching/
   #   weight: 40
+  - name: 기획
+    url: plannings/
+    weight: 20
   - name: sample
-  - name: sample2

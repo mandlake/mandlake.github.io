@@ -32,8 +32,19 @@ sections:
           parallax: false
   - block: collection
     content:
-      title: "📚 현재 진행중인 프로젝트"
-      text: 현재 개발 중인 프로젝트들입니다.
+      title: "📚 주요 기획서들"
+      text: 현재 개발이 예정된 기획서들 입니다.
+      filters:
+        folders:
+          - planning
+    design:
+      view: article-grid
+      fill_image: true
+      columns: 3
+  - block: collection
+    content:
+      title: "📚 주요 프로젝트"
+      text: 현재 개발 중이거나 개발이 완료된 프로젝트들입니다.
       filters:
         folders:
           - project
@@ -41,17 +52,6 @@ sections:
       view: article-grid
       fill_image: true
       columns: 3
-  - block: collection
-    content:
-      title: "📚 현재 개발이 완료된 프로젝트"
-      text: 현재 개발이 완료된 프로젝트들입니다.
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      fill_image: true
-      columns: 1
 
   # - block: collection
   #   id: papers

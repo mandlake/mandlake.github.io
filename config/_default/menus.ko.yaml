@@ -18,14 +18,12 @@ main:
   #   weight: 13
   - name: 경험
     url: experience/
-    weight: 20
   - name: 기획
     url: plannings/
-    weight: 20
   - name: 프로젝트
     url: projects/
-    weight: 30
   # - name: Teaching
   #   url: teaching/
   #   weight: 40
-  - name: sample
+  - name: 책
+    url: books/

@@ -1,7 +1,7 @@
 ---
 title: 동물농장
 date: 2024-09-22
-external_link: https://docs.google.com/presentation/d/1z4jQqolv--T0F1DEyPzVVGD6t0JJdK1F/edit?usp=sharing&ouid=105738723853254609453&rtpof=true&sd=true
+external_link: https://drive.google.com/drive/folders/1ycmNHl8Vd6fs_VShAEfZJBVWepkgHmtu?usp=sharing
 tags:
   - 쥬니어네이버 동물농장
   - frontend

@@ -25,5 +25,5 @@ main:
   # - name: Teaching
   #   url: teaching/
   #   weight: 40
-  - name: 책
-    url: books/
+  # - name: 책
+  #   url: books/

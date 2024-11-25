@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download CV
-      #   url: uploads/저작권.pdf
+      button:
+        text: 학교재학증명서
+        url: uploads/학교재학증명서.pdf
     design:
       css_class: dark
       background:

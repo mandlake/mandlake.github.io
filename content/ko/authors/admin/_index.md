@@ -56,6 +56,9 @@ education:
     institution: 전북대학교
     date_start: 2020-01-01
     date_end: 2024-12-31
+    button:
+      text: 학교재학증명서
+      url: uploads/학교재학증명서.pdf
     summary: |
       김시온은 2020년 컴퓨터공학부 입학, 2024년 졸업 예정
       <div class="mapouter"><div class="gmap_canvas"><iframe src="https://maps.google.com/maps?q=%EC%A0%84%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90%20%EC%83%88%EB%B9%9B%EA%B4%80&amp;t=&amp;z=18&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0" scrolling="no" style="width: 600px; height: 500px;"></iframe><style>.mapouter{display:table;}.gmap_canvas{overflow:hidden;position:relative;height:500px;width:600px;background:#fff;}</style><a href="https://fnfmods.net/vs-tricky/">fnf tricky</a><style>.gmap_canvas iframe{position:relative !important;z-index:2 !important;}.gmap_canvas a{color:#fff !important;position:absolute !important;top:0 !important;left:0 !important;z-index:0 !important;}</style></div></div>
@@ -75,6 +78,9 @@ work:
     company_logo: icons.png
     date_start: 2023-06-27
     date_end: 2023-08-25
+    button:
+      text: 인턴수료증명서
+      url: uploads/인턴수료증명서.pdf
     summary: |
       애드캡슐 회사에서 프론트엔드 개발자 인턴 과정 진행
 
